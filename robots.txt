@@ -1,0 +1,4 @@
+User-agent: *
+Allow: /
+
+Sitemap: https://movieskoe.github.io/sitemapx.xml
